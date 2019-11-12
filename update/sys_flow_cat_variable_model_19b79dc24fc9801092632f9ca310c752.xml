@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>11b79dc24fc9801092632f9ca310c752</id>
+        <name>Action Test Flow -Needit Scheduleds</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-12 15:32:17</sys_created_on>
+        <sys_id>19b79dc24fc9801092632f9ca310c752</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Action Test Flow -Needit Scheduleds</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_418742_needit_sp">b00970f14f01801092632f9ca310c712</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">b00970f14f01801092632f9ca310c712</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_19b79dc24fc9801092632f9ca310c752</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-12 15:32:17</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>

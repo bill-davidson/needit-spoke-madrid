@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Scheduled Flow to test custom action.</description>
+        <internal_name>action_test_flow_-needit_scheduleds</internal_name>
+        <label_cache>[{"name":"5a750d8b-b69f-4141-8a46-404fe710d3ff.item.due_date","label":"4➛NeedIt Task Record➛Due date","reference":"","reference_display":"Due date","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_58872_needit_needit_task","column_name":"due_date"},{"name":"5a750d8b-b69f-4141-8a46-404fe710d3ff.item.number","label":"4➛NeedIt Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_58872_needit_needit_task","column_name":"number"},{"name":"5a750d8b-b69f-4141-8a46-404fe710d3ff.item","label":"4➛NeedIt Task Record","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"reference","base_type":"reference"},{"name":"75147747-1ccf-4b5d-9973-0dbb75604cdc.calculated_date","label":"1➛Calculated date","reference_display":"Calculated date","type":"glide_date","base_type":"glide_date"},{"name":"5a40c2f7-67ff-42f3-b039-ad15d0d5e3bf.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"},{"name":"Weekly_1.run_start_time","label":"Trigger➛Run Start Time","type":"glide_date_time","base_type":"glide_date_time"},{"name":"6b0d5db3-abc4-4447-8e41-cb5041ee329f.property_value","label":"1➛Property value","type":"string","base_type":"string"},{"name":"1e3c4140-4a3b-46c6-b1b2-32048ba84876.calculated_date","label":"2➛Calculated date","type":"glide_date","base_type":"glide_date"},{"name":"8bc6c04e-b000-47a0-8568-0572c1232365.Record","label":"3➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"8bc6c04e-b000-47a0-8568-0572c1232365.Table","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"d924876c-8e5d-44dd-95cb-b18658bdbdf7.Records","label":"3➛NeedIt Task Records","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"records","base_type":"records"},{"name":"d924876c-8e5d-44dd-95cb-b18658bdbdf7.Table","label":"3➛NeedIt Task Table","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"table_name","base_type":"table_name"},{"name":"d924876c-8e5d-44dd-95cb-b18658bdbdf7.Count","label":"3➛Count","reference_display":"Count","type":"integer","base_type":"integer"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow -Needit Scheduled</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-12 14:54:23</sys_created_on>
+        <sys_id>ce0fc18e4f89801092632f9ca310c7a2</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Action Test Flow -Needit Scheduled</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_418742_needit_sp">b00970f14f01801092632f9ca310c712</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">b00970f14f01801092632f9ca310c712</sys_scope>
+        <sys_update_name>sys_hub_flow_ce0fc18e4f89801092632f9ca310c7a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-12 16:18:14</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=ce0fc18e4f89801092632f9ca310c7a2"/>
+    <sys_variable_value action="delete_multiple" query="document_key=ce0fc18e4f89801092632f9ca310c7a2"/>
+</record_update>
